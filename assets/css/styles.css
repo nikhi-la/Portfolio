@@ -317,6 +317,10 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
+.skills__img1 {
+  padding-left: 22%;
+  border-radius: 0.5rem;
+}
 
 /* ===== WORK =====*/
 .work__container {
